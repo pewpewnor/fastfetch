@@ -1,0 +1,52 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+    "logo": {
+        "color": {
+            "1": "blue"
+        }
+    },
+    "modules": [
+        "title",
+        "separator",
+
+        "os",
+        "kernel",
+        "host",
+        "uptime",
+        "separator",
+
+        "packages",
+        "shell",
+        "terminal",
+        "lm",
+        "de",
+        "wm",
+        "wmtheme",
+        "theme",
+        "icons",
+        "separator",
+
+        "cpu",
+        "gpu",
+        "memory",
+        "swap",
+        "disk",
+        "separator",
+
+        "display",
+        "sound",
+        "camera",
+        "mouse",
+        "keyboard",
+        "separator",
+
+        "localip",
+        "battery",
+        "bios",
+        "separator",
+
+        "weather",
+        "break",
+        "colors"
+    ]
+}
